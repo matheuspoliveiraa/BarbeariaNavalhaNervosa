@@ -17,4 +17,5 @@ Interface com tema visual inspirado em barbearias modernas, incluindo ícones in
 📅 Exibição de data atual no sistema
 
 
+<img width="566" height="406" alt="image" src="https://github.com/user-attachments/assets/ae3d2099-87b8-45d0-aa70-b1678a14931b" />
 
